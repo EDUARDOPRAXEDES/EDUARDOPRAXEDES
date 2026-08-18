@@ -29,5 +29,5 @@
 <a href="https://www.linkedin.com/in/eduardo-praxedes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a> [💬 Fale comigo pelo WhatsApp](https://wa.me/5581999999999) </a>
+<a> [💬 Fale comigo pelo WhatsApp](https://wa.me/55819556394?text=Olá!%20Vi%20seu%20projeto%20no%20GitHub.) </a>
 
