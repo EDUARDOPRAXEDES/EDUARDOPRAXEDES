@@ -9,7 +9,7 @@
 - 🔭 Atualmente trabalhando de helpeDesk.
 - 🎸 Músico nas horas vagas.
 
-[![Eduardo Praxedes GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUARDOPRAXEDES&show_icons=true&theme=dark)](https://github.com/EDUARDOPRAXEDES)                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EDUARDOPRAXEDES&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Skills
@@ -29,3 +29,5 @@
 <a href="https://www.linkedin.com/in/eduardo-praxedes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a> [💬 Fale comigo pelo WhatsApp](https://wa.me/5581999999999) </a>
+
