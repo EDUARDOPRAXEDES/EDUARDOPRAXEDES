@@ -21,7 +21,7 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-## Social media
+## Social Media
 
 <a href="https://www.instagram.com/du_praxedes/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
